@@ -1,0 +1,5 @@
+Follow some following examples to configure your server
+
+https://www.quackit.com/php/tutorial/php_mail_configuration.cfm
+https://www.php.net/manual/en/mail.configuration.php
+https://www.hostinger.com/tutorials/send-emails-using-php-mail

@@ -1,0 +1,15 @@
+Follow the instructions in the following link to get your
+google-recaptcha SITE_KEY and SECRET_KEY
+
+https://www.positronx.io/how-to-get-google-recaptcha-site-key-and-secret-key/
+
+add you secret ket in the following directory/file
+utils/recaptcha.php
+in place of 'YOUR_SECREC_KEY_HERE'
+
+Add your SITE_KEY in the contact-us.php and index.php pages
+Find this line of code in both files and add your SITE_KEY
+
+<div class="g-recaptcha brochure__form__captcha" data-sitekey="SITE_KEY_HERE"></div>
+
+After youd will add the keys, then the recaptcha will work fine
